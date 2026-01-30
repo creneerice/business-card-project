@@ -1,0 +1,36 @@
+body {
+background-color: rgb(146, 17, 114);
+font-family: Arial, sans-serif;
+}
+
+.business-card {
+  width: 300px;
+  background-color: rgb(241, 214, 214);
+  padding: 20px;
+  margin-top:100px;
+  text-align: center;
+  font-size: 16px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.full-name {
+  font-size: 20px;
+}
+.profile-image {
+  max-width: 100%;
+}
+
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+a {  text-decoration: none;
+  padding: 20px 20px 20px 20px;
+  color: purple;
+}
+
+h2 {
+  padding: 2px;
+}
